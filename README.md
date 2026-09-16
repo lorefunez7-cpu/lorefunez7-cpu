@@ -5,7 +5,6 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_Científica_de_Datos-Graduada-6A1B9A?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Enfoque-Data_Science_%26_ML-00C2A8?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/📊_Dashboards-Power_BI_%7C_DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <br>
@@ -19,11 +18,11 @@
 
 ## 👩‍💻 Sobre mí
 
-Soy **Lorena Theran**, **Científica de Datos** graduada, apasionada por transformar datos en decisiones de negocio.
+Soy **Lorena Theran**, **Científica de Datos** apasionada por transformar datos en decisiones de negocio.
 
-Domino todo el ciclo de trabajo con datos: extracción y modelado con **SQL**, análisis y automatización con **Python**, construcción de modelos de **Machine Learning**, y visualización ejecutiva con **Power BI** y **DAX**.
+Domino todo el ciclo de trabajo con datos: procesos **ETL** y modelado con **SQL**, análisis y automatización con **Python**, procesamiento a gran escala con **Databricks**, construcción de modelos de **Machine Learning**, y visualización ejecutiva con **Power BI** y **DAX**.
 
-Me caracterizo por mi **pensamiento analítico**, mi capacidad de traducir datos complejos en historias claras para cualquier audiencia, y mi compromiso con la mejora continua. **Actualmente en búsqueda activa de nuevas oportunidades** para aportar valor real a través de los datos. 📩
+Me caracterizo por mi **pensamiento analítico**, mi capacidad de traducir datos complejos en historias claras para cualquier audiencia, y mi compromiso con la mejora continua. Me apasiona especialmente explorar cómo la **IA generativa** puede potenciar la analítica de negocio y acelerar la toma de decisiones. **Actualmente en búsqueda activa de nuevas oportunidades** para aportar valor real a través de los datos. 📩
 
 ---
 
@@ -33,6 +32,7 @@ Me caracterizo por mi **pensamiento analítico**, mi capacidad de traducir datos
 | :--- | :--- |
 | **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 | **Machine Learning** | ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Data Engineering** | ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) |
 | **Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
 | **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
