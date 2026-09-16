@@ -5,6 +5,7 @@
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/🔬_Data_Science-6A1B9A?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Enfoque-Data_Science_%26_ML-00C2A8?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/📊_Dashboards-Power_BI_%7C_DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <br>
@@ -42,16 +43,7 @@ Me caracterizo por mi **pensamiento analítico**, mi capacidad de traducir datos
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lorefunez7-cpu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorefunez7-cpu&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=lorefunez7-cpu&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lorefunez7-cpu&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
