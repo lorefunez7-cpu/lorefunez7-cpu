@@ -19,7 +19,7 @@
 
 ## 👩‍💻 Sobre mí
 
-Soy **Lorena Theran**, **Científica de Datos** apasionada por transformar datos en decisiones de negocio.
+Soy **Lorena Theran**, **Coordinadora de proyectos** apasionada por transformar datos en decisiones de negocio.
 
 Domino todo el ciclo de trabajo con datos: procesos **ETL** y modelado con **SQL**, análisis y automatización con **Python**, procesamiento a gran escala con **Databricks**, construcción de modelos de **Machine Learning**, y visualización ejecutiva con **Power BI** y **DAX**.
 
