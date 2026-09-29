@@ -1,22 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C2A8&center=true&vcenter=true&width=760&lines=%C2%A1Hola!+Soy+Lorena+%F0%9F%91%8B;Projec+Manajer+de+Datos+%26+Machine+Learning;Python+%7C+SQL+%7C+Power+BI+%7C+DAX;%F0%9F%9A%80+Abierta+a+nuevas+oportunidades" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
+  <img src="https://img.shields.io/badge/📋_Project_Manager-4B2E83?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/🔬_Data_Science-6A1B9A?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Enfoque-Data_Science_%26_ML-00C2A8?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/📊_Dashboards-Power_BI_%7C_DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <br>
   <img src="https://img.shields.io/badge/📍_Ubicación-Bogotá,_Colombia-1A73E8?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀_Estado-Buscando_nuevas_oportunidades-FF4500?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Buscando_oportunidades_como-FF4500?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Project_Manager-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Científica_de_Datos-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analista_de_Datos-FF6B35?style=for-the-badge" />
 </div>
-
-<br>
-
----
-
 ## 👩‍💻 Sobre mí
 
 Soy **Lorena Theran**, **Coordinadora de proyectos** apasionada por transformar datos en decisiones de negocio.
